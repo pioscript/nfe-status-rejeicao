@@ -1,223 +1,223 @@
 [
    {
       "code":108,
-      "description":"Serviço Paralisado Momentaneamente (curto \r\nprazo)"
+      "description":"Serviço Paralisado Momentaneamente (curto \r\nprazo) "
    },
    {
       "code":109,
-      "description":"Serviço Paralisado sem Previsão - Como \r\nresolver?"
+      "description":"Serviço Paralisado sem Previsão "
    },
    {
       "code":201,
-      "description":"Número \r\nmáximo de numeração a inutilizar ultrapassou o limite"
+      "description":"Número \r\nmáximo de numeração a inutilizar ultrapassou o limite "
    },
    {
       "code":202,
-      "description":"Falha no reconhecimento da \r\nautoria ou integridade do arquivo digital"
+      "description":"Falha no reconhecimento da \r\nautoria ou integridade do arquivo digital "
    },
    {
       "code":203,
-      "description":"Emitente não habilitado para emissão de \r\nNF-e"
+      "description":"Emitente não habilitado para emissão de \r\nNF-e "
    },
    {
       "code":204,
-      "description":"Duplicidade de NF-e [nRec:999999999999999] - Como \r\nresolver?"
+      "description":"Duplicidade de NF-e [nRec:999999999999999] "
    },
    {
       "code":205,
-      "description":"NF-e está denegada na base de dados da SEFAZ - \r\nComo resolver?"
+      "description":"NF-e está denegada na base de dados da SEFAZ "
    },
    {
       "code":206,
-      "description":"NF-e já está inutilizada na Base de \r\ndados da SEFAZ"
+      "description":"NF-e já está inutilizada na Base de \r\ndados da SEFAZ "
    },
    {
       "code":207,
-      "description":"CNPJ do emitente inválido"
+      "description":"CNPJ do emitente inválido "
    },
    {
       "code":208,
-      "description":"CNPJ do destinatário inválido"
+      "description":"CNPJ do destinatário inválido "
    },
    {
       "code":209,
-      "description":"IE do emitente inválida"
+      "description":"IE do emitente inválida "
    },
    {
       "code":210,
-      "description":"IE do destinatário inválida"
+      "description":"IE do destinatário inválida "
    },
    {
       "code":211,
-      "description":"IE do substituto inválida"
+      "description":"IE do substituto inválida "
    },
    {
       "code":212,
-      "description":"Data de Emissão posterior a data de recebimento \r\n- Como resolver?"
+      "description":"Data de Emissão posterior a data de recebimento \r\n"
    },
    {
       "code":213,
-      "description":"CNPJ-Base do Autor difere do CNPJ-Base do \r\nCertificado Digital"
+      "description":"CNPJ-Base do Autor difere do CNPJ-Base do \r\nCertificado Digital "
    },
    {
       "code":214,
-      "description":"Tamanho da mensagem excedeu o limite \r\nestabelecido"
+      "description":"Tamanho da mensagem excedeu o limite \r\nestabelecido "
    },
    {
       "code":215,
-      "description":"Falha no schema XML"
+      "description":"Falha no schema XML "
    },
    {
       "code":217,
-      "description":"NF-e não consta na base de dados da SEFAZ - Como \r\nresolver?"
+      "description":"NF-e não consta na base de dados da SEFAZ "
    },
    {
       "code":218,
-      "description":"NF-e já está cancelada na base de \r\ndados da Sefaz"
+      "description":"NF-e já está cancelada na base de \r\ndados da Sefaz "
    },
    {
       "code":219,
-      "description":"Circulação da NF-e verificada"
+      "description":"Circulação da NF-e verificada "
    },
    {
       "code":220,
-      "description":"Prazo de Cancelamento Superior ao \r\nPrevisto na Legislação"
+      "description":"Prazo de Cancelamento Superior ao \r\nPrevisto na Legislação "
    },
    {
       "code":221,
-      "description":"Confirmado o recebimento da NF-e pelo \r\ndestinatário"
+      "description":"Confirmado o recebimento da NF-e pelo \r\ndestinatário "
    },
    {
       "code":222,
-      "description":"Protocolo de Autorização de Uso \r\ndifere do cadastrado"
+      "description":"Protocolo de Autorização de Uso \r\ndifere do cadastrado "
    },
    {
       "code":224,
-      "description":"A faixa inicial é maior que a faixa final"
+      "description":"A faixa inicial é maior que a faixa final "
    },
    {
       "code":228,
-      "description":"Data de Emissão muito atrasada"
+      "description":"Data de Emissão muito atrasada "
    },
    {
       "code":229,
-      "description":"IE do emitente não informada"
+      "description":"IE do emitente não informada "
    },
    {
       "code":230,
-      "description":"IE do emitente não cadastrada"
+      "description":"IE do emitente não cadastrada "
    },
    {
       "code":231,
-      "description":"IE do emitente não vinculada ao CNPJ\/CPF - Como \r\nresolver?"
+      "description":"IE do emitente não vinculada ao CNPJ\/CPF "
    },
    {
       "code":232,
-      "description":"IE do destinatário não informada"
+      "description":"IE do destinatário não informada "
    },
    {
       "code":233,
-      "description":"IE do destinatário não cadastrada - Como \r\nresolver?"
+      "description":"IE do destinatário não cadastrada "
    },
    {
       "code":234,
-      "description":"IE do destinatário não vinculada ao CNPJ - \r\nComo resolver?"
+      "description":"IE do destinatário não vinculada ao CNPJ "
    },
    {
       "code":237,
-      "description":"CPF do destinatário inválido"
+      "description":"CPF do destinatário inválido "
    },
    {
       "code":241,
-      "description":"Um número da faixa já foi utilizado"
+      "description":"Um número da faixa já foi utilizado "
    },
    {
       "code":245,
-      "description":"CNPJ Emitente não cadastrado"
+      "description":"CNPJ Emitente não cadastrado "
    },
    {
       "code":254,
-      "description":"NF-e complementar não possui NF referenciada - \r\nComo resolver?"
+      "description":"NF-e complementar não possui NF referenciada "
    },
    {
       "code":255,
-      "description":"NF-e complementar possui mais de uma NF \r\nreferenciada"
+      "description":"NF-e complementar possui mais de uma NF \r\nreferenciada "
    },
    {
       "code":256,
-      "description":"Uma NF-e da faixa já \r\nestá inutilizada na Base de dados da SEFAZ"
+      "description":"Uma NF-e da faixa já \r\nestá inutilizada na Base de dados da SEFAZ "
    },
    {
       "code":267,
-      "description":"Chave de Acesso referenciada inexistente"
+      "description":"Chave de Acesso referenciada inexistente "
    },
    {
       "code":268,
-      "description":"NF Complementar referencia uma outra NF-e \r\nComplementar"
+      "description":"NF Complementar referencia uma outra NF-e \r\nComplementar "
    },
    {
       "code":269,
-      "description":"CNPJ Emitente da NF Complementar \r\ndifere do CNPJ da NF Referenciada"
+      "description":"CNPJ Emitente da NF Complementar \r\ndifere do CNPJ da NF Referenciada "
    },
    {
       "code":270,
-      "description":"Código Município do Fato Gerador \r\nde ICMS inexistente"
+      "description":"Código Município do Fato Gerador \r\nde ICMS inexistente "
    },
    {
       "code":271,
-      "description":"Código Município do Fato \r\nGerador: difere da UF do emitente"
+      "description":"Código Município do Fato \r\nGerador: difere da UF do emitente "
    },
    {
       "code":272,
-      "description":"Código Município do Emitente inexistente - Como \r\nresolver?"
+      "description":"Código Município do Emitente inexistente "
    },
    {
       "code":273,
-      "description":"Código Município do Emitente: difere \r\nda UF do emitente"
+      "description":"Código Município do Emitente: difere \r\nda UF do emitente "
    },
    {
       "code":274,
-      "description":"Código Município do Destinatário \r\ninexistente"
+      "description":"Código Município do Destinatário \r\ninexistente "
    },
    {
       "code":275,
-      "description":"Código \r\nMunicípio do Destinatário: difere da UF do Destinatário"
+      "description":"Código \r\nMunicípio do Destinatário: difere da UF do Destinatário "
    },
    {
       "code":276,
-      "description":"Código Município do Local de Retirada \r\ninexistente"
+      "description":"Código Município do Local de Retirada \r\ninexistente "
    },
    {
       "code":277,
-      "description":"Código Município do \r\nLocal de Retirada: difere da UF do Local de Retirada"
+      "description":"Código Município do \r\nLocal de Retirada: difere da UF do Local de Retirada "
    },
    {
       "code":278,
-      "description":"Código Município do Local de Entrega \r\ninexistente"
+      "description":"Código Município do Local de Entrega \r\ninexistente "
    },
    {
       "code":279,
-      "description":"Código Município do \r\nLocal de Entrega: difere da UF do Local de Entrega"
+      "description":"Código Município do \r\nLocal de Entrega: difere da UF do Local de Entrega "
    },
    {
       "code":280,
-      "description":"Certificado Transmissor inválido"
+      "description":"Certificado Transmissor inválido "
    },
    {
       "code":281,
-      "description":"Certificado Transmissor Data Validade"
+      "description":"Certificado Transmissor Data Validade "
    },
    {
       "code":283,
-      "description":"Certificado Transmissor (erro Cadeia de \r\nCertificação)"
+      "description":"Certificado Transmissor (erro Cadeia de \r\nCertificação) "
    },
    {
       "code":284,
-      "description":"Certificado Transmissor revogado"
+      "description":"Certificado Transmissor revogado "
    },
    {
       "code":286,
-      "description":"Certificado Transmissor erro no acesso a LCR - Como \r\nresolver?"
+      "description":"Certificado Transmissor erro no acesso a LCR "
    },
    {
       "code":286,
@@ -225,299 +225,299 @@
    },
    {
       "code":287,
-      "description":"Código Município do Fato \r\nGerador de ISSQN inexistente "
+      "description":"Código Município do Fato \r\nGerador de ISSQN inexistente  "
    },
    {
       "code":288,
-      "description":"Código Município do Fato \r\nGerador do Transporte inexistente"
+      "description":"Código Município do Fato \r\nGerador do Transporte inexistente "
    },
    {
       "code":296,
-      "description":"Certificado Assinatura erro no acesso a LCR"
+      "description":"Certificado Assinatura erro no acesso a LCR "
    },
    {
       "code":297,
-      "description":"Assinatura difere do calculado"
+      "description":"Assinatura difere do calculado "
    },
    {
       "code":301,
-      "description":"Uso Denegado: Irregularidade fiscal do emitente - Como \r\nresolver?"
+      "description":"Uso Denegado: Irregularidade fiscal do emitente "
    },
    {
       "code":302,
-      "description":"Uso Denegado: Irregularidade fiscal do \r\ndestinatário"
+      "description":"Uso Denegado: Irregularidade fiscal do \r\ndestinatário "
    },
    {
       "code":305,
-      "description":"Destinatário bloqueado na UF"
+      "description":"Destinatário bloqueado na UF "
    },
    {
       "code":306,
-      "description":"IE do destinatário não está ativa na UF \r\n- Como resolver?"
+      "description":"IE do destinatário não está ativa na UF \r\n"
    },
    {
       "code":315,
-      "description":"Data de Emissão anterior ao início da autorização de Nota Fiscal na UF"
+      "description":"Data de Emissão anterior ao início da autorização de Nota Fiscal na UF "
    },
    {
       "code":316,
-      "description":"Nota Fiscal referenciada com a \r\nmesma Chave de Acesso da Nota Fiscal atual"
+      "description":"Nota Fiscal referenciada com a \r\nmesma Chave de Acesso da Nota Fiscal atual "
    },
    {
       "code":317,
-      "description":"NF modelo 1 referenciada com \r\ndata de emissão inválida"
+      "description":"NF modelo 1 referenciada com \r\ndata de emissão inválida "
    },
    {
       "code":321,
-      "description":"NF-e de devolução de mercadoria não possui documento fiscal referenciado"
+      "description":"NF-e de devolução de mercadoria não possui documento fiscal referenciado "
    },
    {
       "code":324,
-      "description":"CNPJ do destinatário já autorizado \r\npara download"
+      "description":"CNPJ do destinatário já autorizado \r\npara download "
    },
    {
       "code":327,
-      "description":"CFOP \r\ninválido para Nota Fiscal com finalidade de devolução de mercadoria"
+      "description":"CFOP \r\ninválido para Nota Fiscal com finalidade de devolução de mercadoria "
    },
    {
       "code":328,
-      "description":"CFOP de devolução de mercadoria para NFe que não tem finalidade de \r\ndevolução de mercadoria"
+      "description":"CFOP de devolução de mercadoria para NFe que não tem finalidade de \r\ndevolução de mercadoria "
    },
    {
       "code":336,
-      "description":"Informado o grupo de exportação no item em operação que não é com \r\nexterior"
+      "description":"Informado o grupo de exportação no item em operação que não é com \r\nexterior "
    },
    {
       "code":347,
-      "description":"Informada IE do substituto tributário em operação  que não é interestadual"
+      "description":"Informada IE do substituto tributário em operação  que não é interestadual "
    },
    {
       "code":351,
-      "description":"Valor do ICMS \r\nda Operação no CST=51 difere do produto BC e Alíquota"
+      "description":"Valor do ICMS \r\nda Operação no CST=51 difere do produto BC e Alíquota "
    },
    {
       "code":352,
-      "description":"Valor do ICMS Diferido no CST=51 difere do produto Valor ICMS Operação e percentual diferimento - \r\nComo resolver?"
+      "description":"Valor do ICMS Diferido no CST=51 difere do produto Valor ICMS Operação e percentual diferimento "
    },
    {
       "code":353,
-      "description":"Valor do ICMS no CST=51 não corresponde a diferença do ICMS operação e ICMS \r\ndiferido"
+      "description":"Valor do ICMS no CST=51 não corresponde a diferença do ICMS operação e ICMS \r\ndiferido "
    },
    {
       "code":354,
-      "description":"Informado grupo de devolução de tributos para NF-e que não tem finalidade \r\nde devolução de mercadoria"
+      "description":"Informado grupo de devolução de tributos para NF-e que não tem finalidade \r\nde devolução de mercadoria "
    },
    {
       "code":355,
-      "description":"Informar o local de \r\nsaída do Pais no caso da exportação -  Como Resolver?"
+      "description":"Informar o local de \r\nsaída do Pais no caso da exportação "
    },
    {
       "code":356,
-      "description":"Informar o \r\nlocal de saída do Pais somente no caso da exportação"
+      "description":"Informar o \r\nlocal de saída do Pais somente no caso da exportação "
    },
    {
       "code":362,
-      "description":"Rejeição: Venda de combustível sem informação do Transportador"
+      "description":"Rejeição: Venda de combustível sem informação do Transportador "
    },
    {
       "code":362,
-      "description":"Venda de combustível \r\nsem informação do Transportador"
+      "description":"Venda de combustível \r\nsem informação do Transportador "
    },
    {
       "code":363,
-      "description":"IE do substituto tributário idêntica à IE do emitente ou do destinatário"
+      "description":"IE do substituto tributário idêntica à IE do emitente ou do destinatário "
    },
    {
       "code":365,
-      "description":"Total de outras \r\nretenções difere do somatório dos itens"
+      "description":"Total de outras \r\nretenções difere do somatório dos itens "
    },
    {
       "code":372,
-      "description":"Destinatário com identificação de estrangeiro com caracteres inválidos"
+      "description":"Destinatário com identificação de estrangeiro com caracteres inválidos "
    },
    {
       "code":375,
-      "description":"NF-e com lançamento relativo a \r\nCupom Fiscal referencia uma NFC-e "
+      "description":"NF-e com lançamento relativo a \r\nCupom Fiscal referencia uma NFC-e  "
    },
    {
       "code":376,
-      "description":"Data do Desembaraço Aduaneiro inválida - Como \r\nresolver?"
+      "description":"Data do Desembaraço Aduaneiro inválida "
    },
    {
       "code":377,
-      "description":"Código de País do destinatário \r\nInexistente"
+      "description":"Código de País do destinatário \r\nInexistente "
    },
    {
       "code":377,
-      "description":"Grupo de Combustível para CFOP \r\ndiferente dos permitidos"
+      "description":"Grupo de Combustível para CFOP \r\ndiferente dos permitidos "
    },
    {
       "code":379,
-      "description":"Grupo de Encerrante na NF-e (modelo 55) para CFOP diferente de venda de combustível para \r\nconsumidor final"
+      "description":"Grupo de Encerrante na NF-e (modelo 55) para CFOP diferente de venda de combustível para \r\nconsumidor final "
    },
    {
       "code":380,
-      "description":"Valor do Encerrante final não é \r\nsuperior ao Encerrante inicial"
+      "description":"Valor do Encerrante final não é \r\nsuperior ao Encerrante inicial "
    },
    {
       "code":387,
-      "description":"Código de Enquadramento Legal do IPI \r\ninválido"
+      "description":"Código de Enquadramento Legal do IPI \r\ninválido "
    },
    {
       "code":388,
-      "description":"Código de Situação Tributária do IPI incompatível com o Código de \r\nEnquadramento Legal do IPI"
+      "description":"Código de Situação Tributária do IPI incompatível com o Código de \r\nEnquadramento Legal do IPI "
    },
    {
       "code":389,
-      "description":"Código Município ISSQN inexistente - Como \r\nresolver?"
+      "description":"Código Município ISSQN inexistente "
    },
    {
       "code":392,
-      "description":"Não informados os dados da operação de pagamento por cartão de crédito \/ débito - \r\nComo resolver?"
+      "description":"Não informados os dados da operação de pagamento por cartão de crédito \/ débito "
    },
    {
       "code":393,
-      "description":"NF-e com o grupo de \r\nInformações Suplementares"
+      "description":"NF-e com o grupo de \r\nInformações Suplementares "
    },
    {
       "code":402,
-      "description":"XML da área de dados \r\ncom codificação diferente de UTF-8"
+      "description":"XML da área de dados \r\ncom codificação diferente de UTF-8 "
    },
    {
       "code":407,
-      "description":"O CPF só pode ser informado no \r\ncampo emitente para a NF-e avulsa"
+      "description":"O CPF só pode ser informado no \r\ncampo emitente para a NF-e avulsa "
    },
    {
       "code":434,
-      "description":"NF-e sem indicativo do intermediador"
+      "description":"NF-e sem indicativo do intermediador "
    },
    {
       "code":435,
-      "description":"NF-e não pode ter o indicativo do \r\nintermediador"
+      "description":"NF-e não pode ter o indicativo do \r\nintermediador "
    },
    {
       "code":436,
-      "description":"Código do meio de pagamento inexistente - Como \r\nResolver?"
+      "description":"Código do meio de pagamento inexistente "
    },
    {
       "code":437,
-      "description":"CNPJ da instituição de \r\npagamento inválido "
+      "description":"CNPJ da instituição de \r\npagamento inválido  "
    },
    {
       "code":438,
-      "description":"Obrigatória as informações do intermediador da \r\ntransação para operação por site de terceiros"
+      "description":"Obrigatória as informações do intermediador da \r\ntransação para operação por site de terceiros "
    },
    {
       "code":439,
-      "description":"Informações do intermediador da transação para operação por site \r\nde terceiros preenchido indevidamente"
+      "description":"Informações do intermediador da transação para operação por site \r\nde terceiros preenchido indevidamente "
    },
    {
       "code":441,
-      "description":"Descrição do pagamento obrigatória para meio de pagamento 99- outros "
+      "description":"Descrição do pagamento obrigatória para meio de pagamento 99- outros  "
    },
    {
       "code":442,
-      "description":"Descrição do pagamento não permitida \r\n- Como resolver?"
+      "description":"Descrição do pagamento não permitida \r\n"
    },
    {
       "code":443,
-      "description":"Código \r\nda bandeira de cartão de crédito e\/ou débito inexistente - Como Resolver?"
+      "description":"Código \r\nda bandeira de cartão de crédito e\/ou débito inexistente "
    },
    {
       "code":461,
-      "description":"Rejeição: Informado campos de percentual de GLP e\/ou GLGNn e\/ou GLGNi para produto diferente de \r\nGLP"
+      "description":"Rejeição: Informado campos de percentual de GLP e\/ou GLGNn e\/ou GLGNi para produto diferente de \r\nGLP "
    },
    {
       "code":467,
-      "description":"Dados da NF-e divergentes do EPEC"
+      "description":"Dados da NF-e divergentes do EPEC "
    },
    {
       "code":468,
-      "description":"NF-e com Tipo Emissão = 4, sem EPEC \r\ncorrespondente"
+      "description":"NF-e com Tipo Emissão = 4, sem EPEC \r\ncorrespondente "
    },
    {
       "code":471,
-      "description":"Informado NCM=00 indevidamente "
+      "description":"Informado NCM=00 indevidamente  "
    },
    {
       "code":472,
-      "description":"CPF consultado difere do CPF do Certificado Digital - \r\nComo resolver?"
+      "description":"CPF consultado difere do CPF do Certificado Digital "
    },
    {
       "code":479,
-      "description":"Data de Emissão anterior a data de credenciamento ou anterior a Data de Abertura do \r\nestabelecimento"
+      "description":"Data de Emissão anterior a data de credenciamento ou anterior a Data de Abertura do \r\nestabelecimento "
    },
    {
       "code":480,
-      "description":"Código Município do Emitente \r\ndiverge do cadastrado na UF"
+      "description":"Código Município do Emitente \r\ndiverge do cadastrado na UF "
    },
    {
       "code":481,
-      "description":"Código Regime \r\nTributário do emitente diverge do cadastro na SEFAZ"
+      "description":"Código Regime \r\nTributário do emitente diverge do cadastro na SEFAZ "
    },
    {
       "code":482,
-      "description":"Código do \r\nMunicípio do Destinatário diverge do cadastrado na UF"
+      "description":"Código do \r\nMunicípio do Destinatário diverge do cadastrado na UF "
    },
    {
       "code":483,
-      "description":"Valor do desconto maior que valor do produto - Como \r\nresolver?"
+      "description":"Valor do desconto maior que valor do produto "
    },
    {
       "code":486,
-      "description":"Não informado o Grupo de Autorização para UF que \r\nexige a identificação do Escritório de Contabilidade na Nota Fiscal"
+      "description":"Não informado o Grupo de Autorização para UF que \r\nexige a identificação do Escritório de Contabilidade na Nota Fiscal "
    },
    {
       "code":487,
-      "description":"Escritório de Contabilidade não \r\ncadastrado na SEFAZ"
+      "description":"Escritório de Contabilidade não \r\ncadastrado na SEFAZ "
    },
    {
       "code":488,
-      "description":"Vendas do Emitente incompatíveis \r\ncom o Porte da Empresa"
+      "description":"Vendas do Emitente incompatíveis \r\ncom o Porte da Empresa "
    },
    {
       "code":494,
-      "description":"Chave de Acesso inexistente"
+      "description":"Chave de Acesso inexistente "
    },
    {
       "code":501,
-      "description":"Prazo de cancelamento superior ao \r\nprevisto na Legislação"
+      "description":"Prazo de cancelamento superior ao \r\nprevisto na Legislação "
    },
    {
       "code":506,
-      "description":"Data de Saída menor que a Data de Emissão - \r\nComo resolver?"
+      "description":"Data de Saída menor que a Data de Emissão "
    },
    {
       "code":508,
-      "description":"CST \r\nincompatível na operação com Não Contribuinte"
+      "description":"CST \r\nincompatível na operação com Não Contribuinte "
    },
    {
       "code":509,
-      "description":"Informado código de município diferente de “9999999” para operação com o \r\nexterior"
+      "description":"Informado código de município diferente de “9999999” para operação com o \r\nexterior "
    },
    {
       "code":511,
-      "description":"Não é de Operação com Exterior e Código País destinatário difere de \r\n1058 (Brasil)"
+      "description":"Não é de Operação com Exterior e Código País destinatário difere de \r\n1058 (Brasil) "
    },
    {
       "code":518,
-      "description":"CFOP de entrada para NF-e de saída"
+      "description":"CFOP de entrada para NF-e de saída "
    },
    {
       "code":519,
-      "description":"CFOP de saída para NF-e de entrada"
+      "description":"CFOP de saída para NF-e de entrada "
    },
    {
       "code":520,
-      "description":"CFOP de Operação com Exterior e UF destinatário difere de “EX”"
+      "description":"CFOP de Operação com Exterior e UF destinatário difere de “EX” "
    },
    {
       "code":521,
-      "description":"Operação Interna e UF do emitente difere da UF do destinatário\/remetente contribuinte do ICMS - \r\nComo resolver?"
+      "description":"Operação Interna e UF do emitente difere da UF do destinatário\/remetente contribuinte do ICMS "
    },
    {
       "code":522,
-      "description":"Chave de Acesso referenciada com UF inválida! \r\nComo resolver?"
+      "description":"Chave de Acesso referenciada com UF inválida! "
    },
    {
       "code":522,
@@ -529,63 +529,63 @@
    },
    {
       "code":525,
-      "description":"CFOP de Importação e não \r\ninformado dados da DI"
+      "description":"CFOP de Importação e não \r\ninformado dados da DI "
    },
    {
       "code":526,
-      "description":"Ano-Mês da Chave de Acesso com atraso superior a 6 meses em relação ao Ano-Mês atual - Como \r\nresolver?"
+      "description":"Ano-Mês da Chave de Acesso com atraso superior a 6 meses em relação ao Ano-Mês atual "
    },
    {
       "code":527,
-      "description":"Operação de Exportação com informação de ICMS incompatível"
+      "description":"Operação de Exportação com informação de ICMS incompatível "
    },
    {
       "code":528,
-      "description":"Valor do ICMS difere do produto BC e Alíquota \r\n- Como resolver?"
+      "description":"Valor do ICMS difere do produto BC e Alíquota \r\n"
    },
    {
       "code":529,
-      "description":"CST incompatível na operação com Contribuinte Isento de Inscrição Estadual - Como \r\nresolver?"
+      "description":"CST incompatível na operação com Contribuinte Isento de Inscrição Estadual "
    },
    {
       "code":531,
-      "description":"Total da BC ICMS difere do somatório dos itens - \r\nComo resolver?"
+      "description":"Total da BC ICMS difere do somatório dos itens "
    },
    {
       "code":532,
-      "description":"Total do ICMS difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do ICMS difere do somatório dos itens "
    },
    {
       "code":533,
-      "description":"Total da BC ICMS-ST difere do somatório dos itens - \r\nComo resolver?"
+      "description":"Total da BC ICMS-ST difere do somatório dos itens "
    },
    {
       "code":534,
-      "description":"Total do ICMS-ST difere do somatório dos itens - \r\nComo resolver?"
+      "description":"Total do ICMS-ST difere do somatório dos itens "
    },
    {
       "code":535,
-      "description":"Total do Frete difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do Frete difere do somatório dos itens "
    },
    {
       "code":536,
-      "description":"Total do Seguro difere do somatório dos itens - \r\nComo resolver?"
+      "description":"Total do Seguro difere do somatório dos itens "
    },
    {
       "code":537,
-      "description":"Total do Desconto difere do somatório dos itens - \r\nComo resolver?"
+      "description":"Total do Desconto difere do somatório dos itens "
    },
    {
       "code":538,
-      "description":"Total do IPI difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do IPI difere do somatório dos itens "
    },
    {
       "code":539,
-      "description":"Duplicidade de NF-e, com diferença na Chave \r\nde Acesso"
+      "description":"Duplicidade de NF-e, com diferença na Chave \r\nde Acesso "
    },
    {
       "code":552,
-      "description":"Chave de Acesso referenciada com \r\nCNPJ\/CPF inválido! Como resolver?"
+      "description":"Chave de Acesso referenciada com \r\nCNPJ\/CPF inválido! "
    },
    {
       "code":552,
@@ -593,27 +593,27 @@
    },
    {
       "code":563,
-      "description":"Já existe pedido de Inutilização com a mesma faixa de inutilização"
+      "description":"Já existe pedido de Inutilização com a mesma faixa de inutilização "
    },
    {
       "code":564,
-      "description":"Total do Produto \/ Serviço difere \r\ndo somatório dos itens"
+      "description":"Total do Produto \/ Serviço difere \r\ndo somatório dos itens "
    },
    {
       "code":569,
-      "description":"Data de entrada em contingência muito  \r\natrasada"
+      "description":"Data de entrada em contingência muito  \r\natrasada "
    },
    {
       "code":573,
-      "description":"Duplicidade de Evento"
+      "description":"Duplicidade de Evento "
    },
    {
       "code":578,
-      "description":"A data do evento não pode ser \r\nmaior que a data do processamento"
+      "description":"A data do evento não pode ser \r\nmaior que a data do processamento "
    },
    {
       "code":593,
-      "description":"CNPJ-Base consultado difere do CNPJ-Base \r\ndo Certificado Digital"
+      "description":"CNPJ-Base consultado difere do CNPJ-Base \r\ndo Certificado Digital "
    },
    {
       "code":593,
@@ -621,71 +621,71 @@
    },
    {
       "code":597,
-      "description":"CFOP de Importação e não \r\ninformado dados de IPI"
+      "description":"CFOP de Importação e não \r\ninformado dados de IPI "
    },
    {
       "code":599,
-      "description":"CFOP de Importação e não \r\ninformado dados de II"
+      "description":"CFOP de Importação e não \r\ninformado dados de II "
    },
    {
       "code":600,
-      "description":"CSOSN \r\nincompatível na operação com Não Contribuinte"
+      "description":"CSOSN \r\nincompatível na operação com Não Contribuinte "
    },
    {
       "code":601,
-      "description":"Total do II difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do II difere do somatório dos itens "
    },
    {
       "code":602,
-      "description":"Total do PIS difere do somatório dos \r\nitens sujeitos ao ICMS"
+      "description":"Total do PIS difere do somatório dos \r\nitens sujeitos ao ICMS "
    },
    {
       "code":603,
-      "description":"Total da COFINS difere do somatório \r\ndos itens sujeitos ao ICMS"
+      "description":"Total da COFINS difere do somatório \r\ndos itens sujeitos ao ICMS "
    },
    {
       "code":604,
-      "description":"Total do vOutro difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do vOutro difere do somatório dos itens "
    },
    {
       "code":605,
-      "description":"Total do vServ difere do \r\nsomatório do vProd dos itens sujeitos ao ISSQN"
+      "description":"Total do vServ difere do \r\nsomatório do vProd dos itens sujeitos ao ISSQN "
    },
    {
       "code":606,
-      "description":"Total do vBC do ISS difere do somatório dos itens - \r\nComo resolver?"
+      "description":"Total do vBC do ISS difere do somatório dos itens "
    },
    {
       "code":607,
-      "description":"Total do ISS difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do ISS difere do somatório dos itens "
    },
    {
       "code":608,
-      "description":"Total do PIS difere do somatório dos \r\nitens sujeitos ao ISSQN"
+      "description":"Total do PIS difere do somatório dos \r\nitens sujeitos ao ISSQN "
    },
    {
       "code":609,
-      "description":"Total da COFINS difere do somatório \r\ndos itens sujeitos ao ISSQN"
+      "description":"Total da COFINS difere do somatório \r\ndos itens sujeitos ao ISSQN "
    },
    {
       "code":610,
-      "description":"Total da NF difere \r\ndo somatório dos Valores compõe o valor Total da NF"
+      "description":"Total da NF difere \r\ndo somatório dos Valores compõe o valor Total da NF "
    },
    {
       "code":611,
-      "description":"GTIN (cEAN) inválido"
+      "description":"GTIN (cEAN) inválido "
    },
    {
       "code":612,
-      "description":"GTIN da unidade tributável (cEANTrib) inválido - \r\nComo resolver?"
+      "description":"GTIN da unidade tributável (cEANTrib) inválido "
    },
    {
       "code":613,
-      "description":"Chave de Acesso difere da existente em BD - Como \r\nresolver?"
+      "description":"Chave de Acesso difere da existente em BD "
    },
    {
       "code":614,
-      "description":"Chave de Acesso inválida \r\n(Código UF inválido)"
+      "description":"Chave de Acesso inválida \r\n(Código UF inválido) "
    },
    {
       "code":614,
@@ -693,7 +693,7 @@
    },
    {
       "code":615,
-      "description":"Chave de Acesso \r\ninválida (Ano menor que 06 ou Ano maior que Ano corrente)"
+      "description":"Chave de Acesso \r\ninválida (Ano menor que 06 ou Ano maior que Ano corrente) "
    },
    {
       "code":615,
@@ -701,11 +701,11 @@
    },
    {
       "code":616,
-      "description":"Chave de Acesso \r\ninválida (Mês menor que 1 ou Mês maior que 12)"
+      "description":"Chave de Acesso \r\ninválida (Mês menor que 1 ou Mês maior que 12) "
    },
    {
       "code":617,
-      "description":"Chave de Acesso inválida \r\n(CNPJ zerado ou dígito inválido)"
+      "description":"Chave de Acesso inválida \r\n(CNPJ zerado ou dígito inválido) "
    },
    {
       "code":617,
@@ -713,7 +713,7 @@
    },
    {
       "code":618,
-      "description":"Chave de Acesso inválida (modelo diferente \r\nde 55) -  Como Resolver?"
+      "description":"Chave de Acesso inválida (modelo diferente \r\nde 55) "
    },
    {
       "code":618,
@@ -721,7 +721,7 @@
    },
    {
       "code":619,
-      "description":"Chave de Acesso inválida (número NF = \r\n0) -  Como resolver?"
+      "description":"Chave de Acesso inválida (número NF = \r\n0) "
    },
    {
       "code":619,
@@ -729,39 +729,39 @@
    },
    {
       "code":627,
-      "description":"O valor do ICMS desonerado deve ser informado - \r\nComo resolver?"
+      "description":"O valor do ICMS desonerado deve ser informado "
    },
    {
       "code":629,
-      "description":"Valor do Produto difere do produto Valor Unitário de Comercialização e Quantidade Comercial - Como \r\nresolver?"
+      "description":"Valor do Produto difere do produto Valor Unitário de Comercialização e Quantidade Comercial "
    },
    {
       "code":630,
-      "description":"Valor do Produto difere do produto Valor Unitário de Tributação e Quantidade Tributável - Como \r\nresolver?"
+      "description":"Valor do Produto difere do produto Valor Unitário de Tributação e Quantidade Tributável "
    },
    {
       "code":635,
-      "description":"NF-e com mesmo número e série já transmitida e aguardando processamento"
+      "description":"NF-e com mesmo número e série já transmitida e aguardando processamento "
    },
    {
       "code":656,
-      "description":"Consumo Indevido"
+      "description":"Consumo Indevido "
    },
    {
       "code":660,
-      "description":"CFOP de \r\nCombustível e não informado grupo de combustível"
+      "description":"CFOP de \r\nCombustível e não informado grupo de combustível "
    },
    {
       "code":663,
-      "description":"Alíquota do ICMS com valor superior a 4 por cento na operação de saída \r\ninterestadual com produtos importados"
+      "description":"Alíquota do ICMS com valor superior a 4 por cento na operação de saída \r\ninterestadual com produtos importados "
    },
    {
       "code":679,
-      "description":"Chave de Acesso referenciada com Modelo \r\ninválido"
+      "description":"Chave de Acesso referenciada com Modelo \r\ninválido "
    },
    {
       "code":679,
-      "description":"Chave de Acesso referenciada com Modelo \r\ninválido! Como resolver?"
+      "description":"Chave de Acesso referenciada com Modelo \r\ninválido! "
    },
    {
       "code":679,
@@ -769,7 +769,7 @@
    },
    {
       "code":680,
-      "description":"Chave de Acesso referenciada em duplicidade na \r\nNF-e! Como Resolver?"
+      "description":"Chave de Acesso referenciada em duplicidade na \r\nNF-e! "
    },
    {
       "code":680,
@@ -777,15 +777,15 @@
    },
    {
       "code":681,
-      "description":"Duplicidade de NF referenciada \r\n(CNPJ, Modelo, Série e Número)"
+      "description":"Duplicidade de NF referenciada \r\n(CNPJ, Modelo, Série e Número) "
    },
    {
       "code":683,
-      "description":"Chave de Acesso referenciada \r\ncom Número inválido"
+      "description":"Chave de Acesso referenciada \r\ncom Número inválido "
    },
    {
       "code":683,
-      "description":"Chave de Acesso \r\nreferenciada com Número inválido! Como resolver?"
+      "description":"Chave de Acesso \r\nreferenciada com Número inválido! "
    },
    {
       "code":683,
@@ -793,75 +793,75 @@
    },
    {
       "code":685,
-      "description":"Total do Valor Aproximado dos \r\nTributos difere do somatório dos itens"
+      "description":"Total do Valor Aproximado dos \r\nTributos difere do somatório dos itens "
    },
    {
       "code":690,
-      "description":"Pedido de cancelamento para NF-e com CT-e ou \r\nMDF-e"
+      "description":"Pedido de cancelamento para NF-e com CT-e ou \r\nMDF-e "
    },
    {
       "code":692,
-      "description":"Existe EPEC registrado para esta Série e Numero - \r\nComo resolver?"
+      "description":"Existe EPEC registrado para esta Série e Numero "
    },
    {
       "code":693,
-      "description":"Alíquota de \r\nICMS superior a definida para a operação interestadual"
+      "description":"Alíquota de \r\nICMS superior a definida para a operação interestadual "
    },
    {
       "code":694,
-      "description":"Não informado o grupo de ICMS para a UF de \r\ndestino"
+      "description":"Não informado o grupo de ICMS para a UF de \r\ndestino "
    },
    {
       "code":695,
-      "description":"Informado indevidamente o grupo de \r\nICMS para a UF de destino"
+      "description":"Informado indevidamente o grupo de \r\nICMS para a UF de destino "
    },
    {
       "code":696,
-      "description":"Operação com não contribuinte deve indicar operação com consumidor final"
+      "description":"Operação com não contribuinte deve indicar operação com consumidor final "
    },
    {
       "code":697,
-      "description":"Alíquota interestadual do ICMS \r\ncom origem diferente do previsto"
+      "description":"Alíquota interestadual do ICMS \r\ncom origem diferente do previsto "
    },
    {
       "code":698,
-      "description":"Alíquota interestadual do ICMS incompatível com as UF envolvidas na operação \r\n[nItem:999]"
+      "description":"Alíquota interestadual do ICMS incompatível com as UF envolvidas na operação \r\n[nItem:999] "
    },
    {
       "code":699,
-      "description":"Percentual do ICMS Interestadual para a UF de destino difere do previsto para o ano da Data de \r\nEmissão [nItem:999]"
+      "description":"Percentual do ICMS Interestadual para a UF de destino difere do previsto para o ano da Data de \r\nEmissão [nItem:999] "
    },
    {
       "code":701,
-      "description":"Não informado Nota Fiscal referenciada"
+      "description":"Não informado Nota Fiscal referenciada "
    },
    {
       "code":703,
-      "description":"Data-Hora de Emissão posterior \r\nao horário  de recebimento"
+      "description":"Data-Hora de Emissão posterior \r\nao horário  de recebimento "
    },
    {
       "code":710,
-      "description":"NF-e com formato de DANFE inválido"
+      "description":"NF-e com formato de DANFE inválido "
    },
    {
       "code":711,
-      "description":"NF-e com contingência off-line"
+      "description":"NF-e com contingência off-line "
    },
    {
       "code":713,
-      "description":"Tipo de Emissão \r\ndiferente de 6 ou 7 para contingência da SVC acessada"
+      "description":"Tipo de Emissão \r\ndiferente de 6 ou 7 para contingência da SVC acessada "
    },
    {
       "code":720,
-      "description":"Na operação com \r\nExterior deve ser informada tag idEstrangeiro"
+      "description":"Na operação com \r\nExterior deve ser informada tag idEstrangeiro "
    },
    {
       "code":721,
-      "description":"Informado idEstrangeiro e Operação não é com consumidor final"
+      "description":"Informado idEstrangeiro e Operação não é com consumidor final "
    },
    {
       "code":721,
-      "description":"Operação interestadual deve informar \r\nCNPJ  ou CPF"
+      "description":"Operação interestadual deve informar \r\nCNPJ  ou CPF "
    },
    {
       "code":721,
@@ -869,123 +869,123 @@
    },
    {
       "code":722,
-      "description":"CFOP de Transporte Inexistente"
+      "description":"CFOP de Transporte Inexistente "
    },
    {
       "code":723,
-      "description":"Operação interna com idEstrangeiro  informado deve ser para consumidor final"
+      "description":"Operação interna com idEstrangeiro  informado deve ser para consumidor final "
    },
    {
       "code":724,
-      "description":"NF-e sem o nome do destinatário"
+      "description":"NF-e sem o nome do destinatário "
    },
    {
       "code":726,
-      "description":"NF-e sem a \r\ninformação de endereço do destinatário"
+      "description":"NF-e sem a \r\ninformação de endereço do destinatário "
    },
    {
       "code":728,
-      "description":"NF-e sem informação da IE do \r\ndestinatário"
+      "description":"NF-e sem informação da IE do \r\ndestinatário "
    },
    {
       "code":731,
-      "description":"CFOP de operação com \r\nExterior e idDest diferente de 3"
+      "description":"CFOP de operação com \r\nExterior e idDest diferente de 3 "
    },
    {
       "code":732,
-      "description":"CFOP de operação \r\ninterestadual e idDest diferente de 2"
+      "description":"CFOP de operação \r\ninterestadual e idDest diferente de 2 "
    },
    {
       "code":733,
-      "description":"CFOP de operação interna e idDest \r\ndiferente de 1"
+      "description":"CFOP de operação interna e idDest \r\ndiferente de 1 "
    },
    {
       "code":737,
-      "description":"Pagamento com cartão de crédito em sistema de automação não integrado"
+      "description":"Pagamento com cartão de crédito em sistema de automação não integrado "
    },
    {
       "code":739,
-      "description":"Código de País do ISSQN Inexistente - Como \r\nresolver?"
+      "description":"Código de País do ISSQN Inexistente "
    },
    {
       "code":761,
-      "description":"Código de Produto ANP inexistente"
+      "description":"Código de Produto ANP inexistente "
    },
    {
       "code":770,
-      "description":"CFOP Inexistente"
+      "description":"CFOP Inexistente "
    },
    {
       "code":771,
-      "description":"Informado idEstrangeiro em \r\noperação interestadual"
+      "description":"Informado idEstrangeiro em \r\noperação interestadual "
    },
    {
       "code":771,
-      "description":"Operação Interestadual e UF de destino \r\ncom EX"
+      "description":"Operação Interestadual e UF de destino \r\ncom EX "
    },
    {
       "code":772,
-      "description":"Operação \r\nInterestadual e UF de destino igual à UF de origem"
+      "description":"Operação \r\nInterestadual e UF de destino igual à UF de origem "
    },
    {
       "code":773,
-      "description":"Operação Interna e UF de \r\ndestino difere da UF de origem"
+      "description":"Operação Interna e UF de \r\ndestino difere da UF de origem "
    },
    {
       "code":777,
-      "description":"Obrigatória a informação \r\ndo NCM completo"
+      "description":"Obrigatória a informação \r\ndo NCM completo "
    },
    {
       "code":778,
-      "description":"Informado NCM inexistente"
+      "description":"Informado NCM inexistente "
    },
    {
       "code":789,
-      "description":"NFC-e para destinatário contribuinte de ICMS - Como \r\nresolver?"
+      "description":"NFC-e para destinatário contribuinte de ICMS "
    },
    {
       "code":791,
-      "description":"NF-e com indicação de destinatário isento de IE, com a informação da IE do \r\ndestinatário"
+      "description":"NF-e com indicação de destinatário isento de IE, com a informação da IE do \r\ndestinatário "
    },
    {
       "code":793,
-      "description":"Valor \r\ndo ICMS relativo ao Fundo de Combate à Pobreza na UF de destino difere do calculado"
+      "description":"Valor \r\ndo ICMS relativo ao Fundo de Combate à Pobreza na UF de destino difere do calculado "
    },
    {
       "code":798,
-      "description":"Valor total do ICMS relativo Fundo de Combate à Pobreza (FCP) da UF de destino difere \r\ndo somatório do valor dos itens"
+      "description":"Valor total do ICMS relativo Fundo de Combate à Pobreza (FCP) da UF de destino difere \r\ndo somatório do valor dos itens "
    },
    {
       "code":799,
-      "description":"Valor total do \r\nICMS Interestadual da UF de destino difere do somatório dos itens"
+      "description":"Valor total do \r\nICMS Interestadual da UF de destino difere do somatório dos itens "
    },
    {
       "code":800,
-      "description":"Valor total \r\ndo ICMS Interestadual da UF do remetente difere do somatório dos itens"
+      "description":"Valor total \r\ndo ICMS Interestadual da UF do remetente difere do somatório dos itens "
    },
    {
       "code":805,
-      "description":"A SEFAZ do destinatário não permite Contribuinte Isento de Inscrição Estadual"
+      "description":"A SEFAZ do destinatário não permite Contribuinte Isento de Inscrição Estadual "
    },
    {
       "code":806,
-      "description":"Operação com ICMS-ST \r\nsem informação do CEST"
+      "description":"Operação com ICMS-ST \r\nsem informação do CEST "
    },
    {
       "code":812,
-      "description":"Regime Tributário SN, com excesso de sublimite não é permitido para Emitentes desta UF"
+      "description":"Regime Tributário SN, com excesso de sublimite não é permitido para Emitentes desta UF "
    },
    {
       "code":815,
-      "description":"Valor do ICMS Interestadual para UF de Destino difere do calculado [nItem:999] (Valor Informado: \r\nXXX, Valor Calculado:XXX)"
+      "description":"Valor do ICMS Interestadual para UF de Destino difere do calculado [nItem:999] (Valor Informado: \r\nXXX, Valor Calculado:XXX) "
    },
    {
       "code":816,
-      "description":"Valor do ICMS Interestadual para UF do Remetente difere do calculado [nItem:999] (Valor Informado: \r\nXXX, Valor Calculado:XXX)"
+      "description":"Valor do ICMS Interestadual para UF do Remetente difere do calculado [nItem:999] (Valor Informado: \r\nXXX, Valor Calculado:XXX) "
    },
    {
       "code":817,
-      "description":"Unidade Tributável incompatível com o NCM informado na operação \r\ncom Comércio Exterior [nItem:nnn]"
+      "description":"Unidade Tributável incompatível com o NCM informado na operação \r\ncom Comércio Exterior [nItem:nnn] "
    },
    {
       "code":841,
@@ -1013,11 +1013,11 @@
    },
    {
       "code":846,
-      "description":"Transporte próprio por conta do Remetente e CNPJ Base ou CPF do Transportador \r\ndifere do CNPJ Base ou CPF do Remetente"
+      "description":"Transporte próprio por conta do Remetente e CNPJ Base ou CPF do Transportador \r\ndifere do CNPJ Base ou CPF do Remetente "
    },
    {
       "code":847,
-      "description":"Transporte não é próprio por conta do Remetente e CNPJ \r\nBase ou CPF do Transportador igual ao CNPJ Base ou CPF do Remetente"
+      "description":"Transporte não é próprio por conta do Remetente e CNPJ \r\nBase ou CPF do Transportador igual ao CNPJ Base ou CPF do Remetente "
    },
    {
       "code":847,
@@ -1025,7 +1025,7 @@
    },
    {
       "code":848,
-      "description":"Transporte próprio por conta do Destinatário e CNPJ Base ou CPF \r\ndo Transportador difere do CNPJ Base ou CPF do Destinatário"
+      "description":"Transporte próprio por conta do Destinatário e CNPJ Base ou CPF \r\ndo Transportador difere do CNPJ Base ou CPF do Destinatário "
    },
    {
       "code":848,
@@ -1033,271 +1033,271 @@
    },
    {
       "code":850,
-      "description":"Data de vencimento da parcela não informada ou menor que a Data de vencimento da parcela \r\nanterior"
+      "description":"Data de vencimento da parcela não informada ou menor que a Data de vencimento da parcela \r\nanterior "
    },
    {
       "code":851,
-      "description":"Soma do valor das parcelas difere \r\ndo Valor Líquido da Fatura"
+      "description":"Soma do valor das parcelas difere \r\ndo Valor Líquido da Fatura "
    },
    {
       "code":852,
-      "description":"Número da parcela inválido ou não \r\ninformado"
+      "description":"Número da parcela inválido ou não \r\ninformado "
    },
    {
       "code":854,
-      "description":"Unidade Tributável (tag: \r\nuTrib) incompatível com produto informado"
+      "description":"Unidade Tributável (tag: \r\nuTrib) incompatível com produto informado "
    },
    {
       "code":855,
-      "description":"Somatório \r\npercentuais de GLP derivado do petróleo, GLGNn e GLGNi diferente de 100"
+      "description":"Somatório \r\npercentuais de GLP derivado do petróleo, GLGNn e GLGNi diferente de 100 "
    },
    {
       "code":856,
-      "description":"Campo valor de partida não \r\npreenchido para produto GLP"
+      "description":"Campo valor de partida não \r\npreenchido para produto GLP "
    },
    {
       "code":858,
-      "description":"Grupo de Tributação informado \r\nindevidamente [nItem: nnn]"
+      "description":"Grupo de Tributação informado \r\nindevidamente [nItem: nnn] "
    },
    {
       "code":859,
-      "description":"Total do FCP retido anteriormente por Substituição Tributária difere do somatório dos itens  - Como \r\nresolver?"
+      "description":"Total do FCP retido anteriormente por Substituição Tributária difere do somatório dos itens  "
    },
    {
       "code":860,
-      "description":"Valor do FCP \r\ninformado difere de base de cálculo*alíquota [nItem: nnn]"
+      "description":"Valor do FCP \r\ninformado difere de base de cálculo*alíquota [nItem: nnn] "
    },
    {
       "code":861,
-      "description":"Total do FCP difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do FCP difere do somatório dos itens "
    },
    {
       "code":862,
-      "description":"Total do FCP ST difere do somatório dos itens - Como \r\nresolver?"
+      "description":"Total do FCP ST difere do somatório dos itens "
    },
    {
       "code":863,
-      "description":"Total do IPI devolvido difere do \r\nsomatório dos itens"
+      "description":"Total do IPI devolvido difere do \r\nsomatório dos itens "
    },
    {
       "code":864,
-      "description":"NF-e com indicativo de Operação presencial, fora do estabelecimento e não \r\ninformada NF-e referenciada"
+      "description":"NF-e com indicativo de Operação presencial, fora do estabelecimento e não \r\ninformada NF-e referenciada "
    },
    {
       "code":865,
-      "description":"Total dos pagamentos menor que o total da nota - Como \r\nresolver?"
+      "description":"Total dos pagamentos menor que o total da nota "
    },
    {
       "code":866,
-      "description":"Ausência de troco quando o valor dos pagamentos informados for maior que o total da nota"
+      "description":"Ausência de troco quando o valor dos pagamentos informados for maior que o total da nota "
    },
    {
       "code":868,
-      "description":"Grupos Veículo Transporte \r\ne Reboque não devem ser informados"
+      "description":"Grupos Veículo Transporte \r\ne Reboque não devem ser informados "
    },
    {
       "code":869,
-      "description":"Valor do troco incorreto "
+      "description":"Valor do troco incorreto  "
    },
    {
       "code":870,
-      "description":"Data de \r\nvalidade incompatível com data de fabricação [nItem:nnn]"
+      "description":"Data de \r\nvalidade incompatível com data de fabricação [nItem:nnn] "
    },
    {
       "code":871,
-      "description":"O \r\ncampo Meio de Pagamento deve ser preenchido com a opção Sem Pagamento"
+      "description":"O \r\ncampo Meio de Pagamento deve ser preenchido com a opção Sem Pagamento "
    },
    {
       "code":872,
-      "description":"A SEFAZ do destinatário não permite Contribuinte Isento de \r\nInscrição Estadual em operações internas"
+      "description":"A SEFAZ do destinatário não permite Contribuinte Isento de \r\nInscrição Estadual em operações internas "
    },
    {
       "code":873,
-      "description":"Operação com medicamentos e não informado os campos de rastreabilidade [nItem:nnn]"
+      "description":"Operação com medicamentos e não informado os campos de rastreabilidade [nItem:nnn] "
    },
    {
       "code":874,
-      "description":"Percentual de FCP inválido [nItem: nnn]"
+      "description":"Percentual de FCP inválido [nItem: nnn] "
    },
    {
       "code":875,
-      "description":"Percentual de FCPST inválido [nItem: nnn]"
+      "description":"Percentual de FCPST inválido [nItem: nnn] "
    },
    {
       "code":876,
-      "description":"Operação interestadual para Consumidor Final e valor do FCP informado em campo \r\ndiferente de vFCPUFDest (id:NA13) [nItem:nnn]"
+      "description":"Operação interestadual para Consumidor Final e valor do FCP informado em campo \r\ndiferente de vFCPUFDest (id:NA13) [nItem:nnn] "
    },
    {
       "code":877,
-      "description":"Data de fabricação maior \r\nque a data de processamento [nItem:nnn]"
+      "description":"Data de fabricação maior \r\nque a data de processamento [nItem:nnn] "
    },
    {
       "code":879,
-      "description":"Informado item “Produzido em Escala NÃO Relevante” e não informado CNPJ \r\ndo Fabricante [nItem:nnn]"
+      "description":"Informado item “Produzido em Escala NÃO Relevante” e não informado CNPJ \r\ndo Fabricante [nItem:nnn] "
    },
    {
       "code":880,
-      "description":"Percentual de FCP igual a zero [nItem: nnn]"
+      "description":"Percentual de FCP igual a zero [nItem: nnn] "
    },
    {
       "code":881,
-      "description":"Percentual de FCP ST igual a zero [nItem: nnn] - Como \r\nresolver?"
+      "description":"Percentual de FCP ST igual a zero [nItem: nnn] "
    },
    {
       "code":882,
-      "description":"GTIN (cEAN) com prefixo inválido [nItem:999] - Como \r\nresolver?"
+      "description":"GTIN (cEAN) com prefixo inválido [nItem:999] "
    },
    {
       "code":883,
-      "description":"GTIN (cEAN) sem informação [nItem:999] - Como \r\nresolver?"
+      "description":"GTIN (cEAN) sem informação [nItem:999] "
    },
    {
       "code":884,
-      "description":"GTIN da unidade \r\ntributável (cEANTrib) com prefixo inválido [nItem:999]"
+      "description":"GTIN da unidade \r\ntributável (cEANTrib) com prefixo inválido [nItem:999] "
    },
    {
       "code":885,
-      "description":"GTIN informado, \r\nmas não informado o GTIN da unidade tributável [nItem:999]"
+      "description":"GTIN informado, \r\nmas não informado o GTIN da unidade tributável [nItem:999] "
    },
    {
       "code":886,
-      "description":"GTIN da unidade \r\ntributável informado, mas não informado o GTIN [nItem:999]"
+      "description":"GTIN da unidade \r\ntributável informado, mas não informado o GTIN [nItem:999] "
    },
    {
       "code":887,
-      "description":"Informado GTIN de agrupamento de produtos homogêneos (GTIN-14) no GTIN da unidade tributável \r\n[nItem:999]"
+      "description":"Informado GTIN de agrupamento de produtos homogêneos (GTIN-14) no GTIN da unidade tributável \r\n[nItem:999] "
    },
    {
       "code":888,
-      "description":"GTIN da unidade \r\ntributável (cEANTrib) sem informação [nItem:999]"
+      "description":"GTIN da unidade \r\ntributável (cEANTrib) sem informação [nItem:999] "
    },
    {
       "code":889,
-      "description":"Obrigatória a informação do GTIN para o produto [nItem:999]"
+      "description":"Obrigatória a informação do GTIN para o produto [nItem:999] "
    },
    {
       "code":897,
-      "description":"Código numérico em formato inválido - Como \r\nresolver?"
+      "description":"Código numérico em formato inválido "
    },
    {
       "code":898,
-      "description":"Data de vencimento da parcela não informada ou menor que Data de Autorização"
+      "description":"Data de vencimento da parcela não informada ou menor que Data de Autorização "
    },
    {
       "code":900,
-      "description":"Data de \r\nvencimento da parcela não informada ou menor que Data de Emissão"
+      "description":"Data de \r\nvencimento da parcela não informada ou menor que Data de Emissão "
    },
    {
       "code":901,
-      "description":"Valor do Desconto da Fatura maior que o \r\nValor Original da Fatura"
+      "description":"Valor do Desconto da Fatura maior que o \r\nValor Original da Fatura "
    },
    {
       "code":902,
-      "description":"Valor Liquido da Fatura difere do \r\nValor Original menos o Valor do Desconto"
+      "description":"Valor Liquido da Fatura difere do \r\nValor Original menos o Valor do Desconto "
    },
    {
       "code":905,
-      "description":"Campos do grupo Fatura não informados - Como \r\nresolver?"
+      "description":"Campos do grupo Fatura não informados "
    },
    {
       "code":906,
-      "description":"Não informados \r\nos campos para informações do ICMS Efetivo - Como  resolver?"
+      "description":"Não informados \r\nos campos para informações do ICMS Efetivo "
    },
    {
       "code":923,
-      "description":"Referenciado documento de operação interna em operação interestadual ou com o \r\nexterior"
+      "description":"Referenciado documento de operação interna em operação interestadual ou com o \r\nexterior "
    },
    {
       "code":924,
-      "description":"Informado Cupom Fiscal referenciado"
+      "description":"Informado Cupom Fiscal referenciado "
    },
    {
       "code":925,
-      "description":"NF-e com identificação de estrangeiro e inscrição estadual informada para destinatário - \r\nComo resolver?"
+      "description":"NF-e com identificação de estrangeiro e inscrição estadual informada para destinatário "
    },
    {
       "code":926,
-      "description":"Operação com Exterior e \r\npaís de destino igual a Brasil"
+      "description":"Operação com Exterior e \r\npaís de destino igual a Brasil "
    },
    {
       "code":927,
-      "description":"Número do item fora da ordem sequencial - Como \r\nresolver?"
+      "description":"Número do item fora da ordem sequencial "
    },
    {
       "code":928,
-      "description":"Informado código \r\nde benefício fiscal para CST sem benefício fiscal"
+      "description":"Informado código \r\nde benefício fiscal para CST sem benefício fiscal "
    },
    {
       "code":929,
-      "description":"Informado CST de \r\ndiferimento sem as informações de diferimento"
+      "description":"Informado CST de \r\ndiferimento sem as informações de diferimento "
    },
    {
       "code":930,
-      "description":"CST \r\ncom benefício fiscal e não informado o código de benefício fiscal"
+      "description":"CST \r\ncom benefício fiscal e não informado o código de benefício fiscal "
    },
    {
       "code":931,
-      "description":"Informado código de \r\nbenefício fiscal incompatível com CST e UF"
+      "description":"Informado código de \r\nbenefício fiscal incompatível com CST e UF "
    },
    {
       "code":932,
-      "description":"Informada modalidade de determinação da BC da ST como MVA e não informado o \r\ncampo pMVAST"
+      "description":"Informada modalidade de determinação da BC da ST como MVA e não informado o \r\ncampo pMVAST "
    },
    {
       "code":933,
-      "description":"Informada modalidade de determinação da BC da ST diferente de MVA e informado o campo pMVAST - \r\nComo resolver?"
+      "description":"Informada modalidade de determinação da BC da ST diferente de MVA e informado o campo pMVAST "
    },
    {
       "code":934,
-      "description":"Não informado valor do ICMS desonerado ou o Motivo de desoneração"
+      "description":"Não informado valor do ICMS desonerado ou o Motivo de desoneração "
    },
    {
       "code":935,
-      "description":"Valor total \r\nda Base de Cálculo superior ao valor limite estabelecido (valor definido pela UF)"
+      "description":"Valor total \r\nda Base de Cálculo superior ao valor limite estabelecido (valor definido pela UF) "
    },
    {
       "code":936,
-      "description":"Razão Social do emitente \r\ndiverge do informado no cadastro da SEFAZ"
+      "description":"Razão Social do emitente \r\ndiverge do informado no cadastro da SEFAZ "
    },
    {
       "code":938,
-      "description":"Não informada vBCSTRet, pST, \r\nvICMSSubstituto e vICMSSTRet"
+      "description":"Não informada vBCSTRet, pST, \r\nvICMSSubstituto e vICMSSTRet "
    },
    {
       "code":941,
-      "description":"Número do Regime especial inválido - Como \r\nresolver?"
+      "description":"Número do Regime especial inválido "
    },
    {
       "code":942,
-      "description":"IE do local de retirada não cadastrada"
+      "description":"IE do local de retirada não cadastrada "
    },
    {
       "code":943,
-      "description":"IE do local de retirada não vinculada ao CNPJ - Como \r\nresolver?"
+      "description":"IE do local de retirada não vinculada ao CNPJ "
    },
    {
       "code":944,
-      "description":"IE do local de retirada não vinculada ao CPF - Como \r\nresolver?"
+      "description":"IE do local de retirada não vinculada ao CPF "
    },
    {
       "code":945,
-      "description":"IE do local de entrega não cadastrada"
+      "description":"IE do local de entrega não cadastrada "
    },
    {
       "code":946,
-      "description":"Informado código de \r\nbenefício fiscal incorreto ou inexistente na UF"
+      "description":"Informado código de \r\nbenefício fiscal incorreto ou inexistente na UF "
    },
    {
       "code":947,
-      "description":"IE do local de entrega não vinculada ao CNPJ - Como \r\nresolver?"
+      "description":"IE do local de entrega não vinculada ao CNPJ "
    },
    {
       "code":948,
-      "description":"IE do local de entrega não vinculada ao CPF - Como \r\nresolver?"
+      "description":"IE do local de entrega não vinculada ao CPF "
    },
    {
       "code":952,
-      "description":"Chave de Acesso \r\nreferenciada com a mesma Chave Natural da Nota Fiscal atual! Como Resolver?"
+      "description":"Chave de Acesso \r\nreferenciada com a mesma Chave Natural da Nota Fiscal atual! "
    },
    {
       "code":952,
@@ -1305,7 +1305,7 @@
    },
    {
       "code":954,
-      "description":"Chave de \r\nAcesso referenciada não permitida para esta operação! Como resolver?"
+      "description":"Chave de \r\nAcesso referenciada não permitida para esta operação! "
    },
    {
       "code":954,
@@ -1313,7 +1313,7 @@
    },
    {
       "code":955,
-      "description":"Chave \r\nde Acesso referenciada com código numérico não zerado! Como resolver?"
+      "description":"Chave \r\nde Acesso referenciada com código numérico não zerado! "
    },
    {
       "code":955,
@@ -1321,7 +1321,7 @@
    },
    {
       "code":956,
-      "description":"Chave de Acesso referenciada com código numérico zerado não permitida na UF. Como resolver?"
+      "description":"Chave de Acesso referenciada com código numérico zerado não permitida na UF. "
    },
    {
       "code":956,
@@ -1329,42 +1329,42 @@
    },
    {
       "code":970,
-      "description":"Código de País inexistente [local de \r\nretirada\/entrega]"
+      "description":"Código de País inexistente [local de \r\nretirada\/entrega] "
    },
    {
       "code":971,
-      "description":"IE inválida [local de retirada\/entrega]"
+      "description":"IE inválida [local de retirada\/entrega] "
    },
    {
       "code":972,
-      "description":"Obrigatória as informações do responsável técnico"
+      "description":"Obrigatória as informações do responsável técnico "
    },
    {
       "code":973,
-      "description":"CNPJ do responsável técnico inválido - Como \r\nresolver?"
+      "description":"CNPJ do responsável técnico inválido "
    },
    {
       "code":974,
-      "description":"CNPJ do responsável técnico diverge \r\ndo cadastrado"
+      "description":"CNPJ do responsável técnico diverge \r\ndo cadastrado "
    },
    {
       "code":975,
-      "description":"Obrigatória a informação do identificador do CSRT e do Hash do CSRT"
+      "description":"Obrigatória a informação do identificador do CSRT e do Hash do CSRT "
    },
    {
       "code":976,
-      "description":"Identificador do CSRT não cadastrado na SEFAZ - \r\nComo resolver?"
+      "description":"Identificador do CSRT não cadastrado na SEFAZ "
    },
    {
       "code":977,
-      "description":"Identificador do CSRT revogado"
+      "description":"Identificador do CSRT revogado "
    },
    {
       "code":978,
-      "description":"Hash do CSRT diverge do calculado"
+      "description":"Hash do CSRT diverge do calculado "
    },
    {
       "code":999,
-      "description":"Erro não catalogado"
+      "description":"Erro não catalogado "
    }
 ]
